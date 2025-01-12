@@ -46,7 +46,10 @@ The project utilizes a dataset containing demographic, account, and behavioral i
 
   * Built classification models to predict customer churn.
   * Evaluated models using metrics like accuracy, precision, recall, and F1-score.
+    ![p](https://github.com/MAHFUZATUL-BUSHRA/Bank-Churn_Customer-Project-/blob/main/churn/roc.png)
+    ![p](https://github.com/MAHFUZATUL-BUSHRA/Bank-Churn_Customer-Project-/blob/main/churn/recall%20%26%20precision.png)
   * Identified top predictors of churn using feature importance analysis.
+    ![p](https://github.com/MAHFUZATUL-BUSHRA/Bank-Churn_Customer-Project-/blob/main/churn/churn%20Features.png)
 
 #### Step 4: Customer Segmentation
 
