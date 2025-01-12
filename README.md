@@ -50,9 +50,24 @@ The project utilizes a dataset containing demographic, account, and behavioral i
 
 #### Step 4: Customer Segmentation
 
- * Applied clustering algorithms (e.g., K-Means, Hierarchical Clustering) to identify distinct customer groups.
- * Visualized clusters and analyzed their characteristics.
- * Recommended marketing and product strategies for each customer segment.
+ ### Applied clustering algorithms (e.g., K-Means, Hierarchical Clustering) to identify distinct customer groups.
+  ![p](https://github.com/MAHFUZATUL-BUSHRA/Bank-Churn_Customer-Project-/blob/main/customer_Seg_pictures/customer_Seg1.png)
+  ![p](https://github.com/MAHFUZATUL-BUSHRA/Bank-Churn_Customer-Project-/blob/main/customer_Seg_pictures/customer_Seg2.png)
+
+  ### Visualized clusters and analyzed their characteristics.
+  ![p](https://github.com/MAHFUZATUL-BUSHRA/Bank-Churn_Customer-Project-/blob/main/customer_Seg_pictures/seg3.png)
+  ![p](https://github.com/MAHFUZATUL-BUSHRA/Bank-Churn_Customer-Project-/blob/main/customer_Seg_pictures/seg4.png)
+
+ ### Recommended marketing and product strategies for each customer segment.
+ #### Recommendations:
+
+   * Clsuter 0: Create an Entry-level Credit Card; Also, do some research on their Demographic Information.
+
+   * Cluster 1: They have very high Balance, but likely to leave. So, try to keep them by offering them financial seminars or advisors or, maybe suggest investment opportunities.
+
+   * Cluster 2: They are less likely to leave. We can reward them (French and Spanish Customers) for staying. We can introduce reward programs to encourage them to invest in more products.
+
+   * Cluster 3: They have many products in a very short time. Churn rate is also relatively high. Since, they like products we may offer them products with higher tenure.
 
 ### Technologies Used
 
@@ -67,10 +82,10 @@ The project utilizes a dataset containing demographic, account, and behavioral i
 
 #### Customer Segmentation
 
-  * Segmented customers into distinct groups based on behavior and demographics.
+  * Segmented customers into distinct groups based on behavior and demographics.  
   * Identified segments that prefer premium services and those that respond to discounts.
 
-### Recommendations
+### Future Steps
 
 * Implement proactive retention strategies for customers identified as high risk of churn.
 * Develop targeted marketing campaigns for different customer segments.
